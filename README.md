@@ -1,4 +1,4 @@
-# Online-Class: Introduction to PHP
+# Online Class: Introduction to PHP
 ```
 // 1. Print the sentence: Welcome to PHP!
 
