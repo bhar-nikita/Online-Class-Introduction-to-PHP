@@ -15,7 +15,7 @@
       SQL - Stands for Structural Query Language</strong></em>
    */
 
-// 5. Print the following acronyms in unordered list - <ul> ... </ul>:
+// 5. Print the following acronyms in unordered list - &lt;ul&gt; ... &lt;/ul&gt;:
    /*<strong><em>
       HTML - Stands for Hypertext Markup Language
       CSS - Stands for Cascading Stylesheet
