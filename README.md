@@ -42,11 +42,11 @@ echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 +---+
 Print the following acronyms - every acronym in a new line:
 <strong><em>
-   HTML - Stands for Hypertext Markup Language
-   CSS - Stands for Cascading Stylesheet
-   JS - Stands for JavaScript
-   PHP - Stands for Hypertext Preprocessor
-   SQL - Stands for Structural Query Language</em></strong>
+HTML - Stands for Hypertext Markup Language
+CSS - Stands for Cascading Stylesheet
+JS - Stands for JavaScript
+PHP - Stands for Hypertext Preprocessor
+SQL - Stands for Structural Query Language</em></strong>
 */
    
    
@@ -61,10 +61,10 @@ echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 +---+
 Print the following acronyms in unordered list - &lt;ul&gt; ... &lt;/ul&gt;:
 <strong><em>
-   HTML - Stands for Hypertext Markup Language
-   CSS - Stands for Cascading Stylesheet
-   JS - Stands for JavaScript
-   PHP - Stands for Hypertext Preprocessor
-   SQL - Stands for Structural Query Language</em></strong>
+HTML - Stands for Hypertext Markup Language
+CSS - Stands for Cascading Stylesheet
+JS - Stands for JavaScript
+PHP - Stands for Hypertext Preprocessor
+SQL - Stands for Structural Query Language</em></strong>
 */
 </pre>
