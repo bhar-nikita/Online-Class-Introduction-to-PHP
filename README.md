@@ -2,9 +2,18 @@
 <pre>
 // 1. Print the sentence: <strong><em>Welcome to PHP!</strong></em>
 
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
+
 // 2. Print the sentence: <strong><em>PHP stands for "Hypertext Preprocessor"!</strong></em>
 
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
+
 // 3. Print the following sentence as a paragraph: <strong><em>PHP stands for "Hypertext Preprocessor"!</strong></em>
+
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 // 4. Print the following acronyms - every acronym in a new line:
    /*<strong><em>
@@ -14,6 +23,9 @@
       PHP - Stands for Hypertext Preprocessor
       SQL - Stands for Structural Query Language</strong></em>
    */
+   
+// task separator
+echo "&lt;hr style=\"margin 1rem 0\"&gt;";
 
 // 5. Print the following acronyms in unordered list - &lt;ul&gt; ... &lt;/ul&gt;:
    /*<strong><em>
